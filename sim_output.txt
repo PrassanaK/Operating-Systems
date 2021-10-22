@@ -1,0 +1,610 @@
+
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  26
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  27
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  28
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  29
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  30
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  31
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  32
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  33
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  34
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  35
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  36
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  37
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  38
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  39
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  40
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  41
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  42
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  43
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  44
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  45
+Current position: Floor  0
+New Lift Request from Floor  0  to  0
+Request No:  51
+New Lift Request from Floor  0  to  0
+Request No:  52
+New Lift Request from Floor  0  to  0
+Request No:  53
+New Lift Request from Floor  0  to  0
+Request No:  54
+New Lift Request from Floor  0  to  0
+Request No:  55
+New Lift Request from Floor  0  to  0
+Request No:  56
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  46
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  47
+Current position: Floor  0
+New Lift Request from Floor  0  to  0
+Request No:  57
+New Lift Request from Floor  0  to  0
+Request No:  58
+New Lift Request from Floor  0  to  0
+Request No:  59
+New Lift Request from Floor  0  to  0
+Request No:  60
+New Lift Request from Floor  0  to  0
+Request No:  61
+New Lift Request from Floor  0  to  0
+Request No:  62
+New Lift Request from Floor  0  to  0
+Request No:  63
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  48
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  49
+Current position: Floor  0
+New Lift Request from Floor  0  to  0
+Request No:  64
+New Lift Request from Floor  0  to  0
+Request No:  65
+New Lift Request from Floor  0  to  0
+Request No:  66
+New Lift Request from Floor  0  to  0
+Request No:  67
+New Lift Request from Floor  0  to  0
+Request No:  68
+New Lift Request from Floor  0  to  0
+Request No:  69
+New Lift Request from Floor  0  to  0
+Request No:  70
+New Lift Request from Floor  0  to  0
+Request No:  71
+New Lift Request from Floor  0  to  0
+Request No:  72
+New Lift Request from Floor  0  to  0
+Request No:  73
+New Lift Request from Floor  0  to  0
+Request No:  74
+New Lift Request from Floor  0  to  0
+Request No:  75
+New Lift Request from Floor  0  to  0
+Request No:  76
+New Lift Request from Floor  0  to  0
+Request No:  77
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  50
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  51
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  52
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  53
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  54
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  55
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this reque#request:  25equest:  56
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  57
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  58
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  59
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  60
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  61
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  62
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  63
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  64
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  65
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  66
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  67
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  68
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  69
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  70
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  71
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  72
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  73
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  74
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  75
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  76
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  77
+Current position: Floor  0
+New Lift Request from Floor  0  to  0
+Request No:  78
+New Lift Request from Floor  0  to  0
+Request No:  79
+New Lift Request from Floor  0  to  0
+Request No:  80
+New Lift Request from Floor  0  to  0
+Request No:  81
+New Lift Request from Floor  0  to  0
+Request No:  82
+New Lift Request from Floor  0  to  0
+Request No:  83
+New Lift Request from Floor  0  to  0
+Request No:  84
+New Lift Request from Floor  0  to  0
+Request No:  85
+New Lift Request from Floor  0  to  0
+Request No:  86
+New Lift Request from Floor  0  to  0
+Request No:  87
+New Lift Request from Floor  0  to  0
+Request No:  88
+New Lift Request from Floor  0  to  0
+Request No:  89
+New Lift Request from Floor  0  to  0
+Request No:  90
+New Lift Request from Floor  0  to  0
+Request No:  91
+New Lift Request from Floor  0  to  0
+Request No:  92
+New Lift Request from Floor  0  to  0
+Request No:  93
+New Lift Request from Floor  0  to  0
+Request No:  94
+New Lift Request from Floor  0  to  0
+Request No:  95
+New Lift Request from Floor  0  to  0
+Request No:  96
+New Lift Request from Floor  0  to  0
+Request No:  97
+New Lift Request from Floor  0  to  0
+Request No:  98
+New Lift Request from Floor  0  to  0
+Request No:  99
+New Lift Request from Floor  0  to  0
+Request No:  100
+New Lift Request from Floor  0  to  0
+Request No:  101
+New Lift Request from Floor  0  to  0
+Request No:  102
+New Lift Request from Floor  0  to  0
+Request No:  103
+New Lift Request from Floor  0  to  0
+Request No:  104
+New Lift Request from Floor  0  to  0
+Request No:  105
+New Lift Request from Floor  0  to  0
+Request No:  106
+New Lift Request from Floor  0  to  0
+Request No:  107
+New Lift Request from Floor  0  to  0
+Request No:  108
+New Lift Request from Floor  0  to  0
+Request No:  109
+New Lift Request from Floor  0  to  0
+Request No:  110
+New Lift Request from Floor  0  to  0
+Request No:  111
+New Lift Request from Floor  0  to  0
+Request No:  112
+New Lift Request from Floor  0  to  0
+Request No:  113
+New Lift Request from Floor  0  to  0
+Request No:  114
+New Lift Request from Floor  0  to  0
+Request No:  115
+New Lift Request from Floor  0  to  0
+Request No:  116
+New Lift Request from Floor  0  to  0
+Request No:  117
+New Lift Request from Floor  0  to  0
+Request No:  118
+New Lift Request from Floor  0  to  0
+Request No:  119
+New Lift Request from Floor  0  to  0
+Request No:  120
+New Lift Request from Floor  0  to  0
+Request No:  121
+New Lift Request from Floor  0  to  0
+Request No:  122
+New Lift Request from Floor  0  to  0
+Request No:  123
+New Lift Request from Floor  0  to  0
+Request No:  124
+New Lift Request from Floor  0  to  0
+Request No:  125
+New Lift Request from Floor  0  to  0
+Request No:  126
+New Lift Request from Floor  0  to  0
+Request No:  127
+New Lift Request from Floor  0  to  0
+Request No:  128
+New Lift Request from Floor  0  to  0
+Request No:  129
+New Lift Request from Floor  0  to  0
+Request No:  130
+New Lift Request from Floor  0  to  0
+Request No:  131
+New Lift Request from Floor  0  to  0
+Request No:  132
+New Lift Request from Floor  0  to  0
+Request No:  133
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  78
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  79
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
+    Go from Floor  0  to Floor  0
+    Go from Floor  0  to Floor  0
+    #movement for this request:  0
+    #request:  80
+Current position: Floor  0
+Previous Position: Floor  0
+Floor  0  to Floor  0 
+Detail Operations:
